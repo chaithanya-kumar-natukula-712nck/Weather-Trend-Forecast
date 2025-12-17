@@ -173,7 +173,10 @@ After installing the dependencies, launch Jupyter Notebook:
 ```bash
 jupyter notebook
 ```
-
+Open the following notebook and run all cells sequentially:
+```
+Weather_Trend_Forecasting.ipynb
+```
 ---
 ## Acknowledgments
 Special thanks to **Kaggle** for providing the dataset and to the open-source community for developing powerful forecasting libraries such as **Prophet** and **Statsmodels**.
