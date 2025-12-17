@@ -161,17 +161,19 @@ cd Weather-Trend-Forecast
 
 # Install required dependencies
 pip install pandas numpy seaborn matplotlib scikit-learn statsmodels prophet
+```
 
-# Run the forecasting script
+## Run the Project
+
 This project is implemented using a Jupyter Notebook.
 
 After installing the dependencies, launch Jupyter Notebook:
 
 ```bash
 jupyter notebook
-
-
+Weather_Trend_Forecasting.ipynb
 ```
+
 ---
 ## Acknowledgments
 Special thanks to **Kaggle** for providing the dataset and to the open-source community for developing powerful forecasting libraries such as **Prophet** and **Statsmodels**.
