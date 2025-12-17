@@ -184,7 +184,7 @@ Special thanks to **Kaggle** for providing the dataset and to the open-source co
 **Chaithanya**  
 📧 Email: your-email@gmail.com  
 🔗 GitHub: https://github.com/chaithanya-kumar-natukula-712nck  
-🔗 LinkedIn: https://www.linkedin.com/in/your-linkedin-id/chaithanya-kumar-natukula-712nck
+🔗 LinkedIn: https://www.linkedin.com/in/chaithanya-kumar-natukula-712nck
 
 ---
 
