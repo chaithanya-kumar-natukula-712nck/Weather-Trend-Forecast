@@ -163,6 +163,13 @@ cd Weather-Trend-Forecast
 pip install pandas numpy seaborn matplotlib scikit-learn statsmodels prophet
 
 # Run the forecasting script
+This project is implemented using a Jupyter Notebook.
+
+After installing the dependencies, launch Jupyter Notebook:
+
+```bash
+jupyter notebook
+
 
 ```
 ---
