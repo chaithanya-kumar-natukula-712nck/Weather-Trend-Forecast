@@ -150,12 +150,32 @@ This project demonstrates the effectiveness of time series analysis in understan
 By leveraging SARIMA, Prophet, and an ensemble approach, the study successfully forecasts temperature trends with reliable accuracy.  
 The project highlights the importance of preprocessing, model selection, and evaluation in real-world forecasting problems.
 
+## Installation and Usage
+
+To run the project locally, follow these steps:
+
+```bash
+# Clone the repository
+git clone https://github.com/chaithanya-kumar-natukula-712nck/Weather-Trend-Forecast.git
+cd Weather-Trend-Forecast
+
+# Install required dependencies
+pip install pandas numpy seaborn matplotlib scikit-learn statsmodels prophet
+
+# Run the forecasting script
+
+```
+---
+## Acknowledgments
+Special thanks to **Kaggle** for providing the dataset and to the open-source community for developing powerful forecasting libraries such as **Prophet** and **Statsmodels**.
+
 ---
 
-## 👤 Author
+## 📬 Contact
 **Chaithanya**  
-B.Tech – Computer Science Engineering  
-Aspiring Data Scientist & ML Engineer  
+📧 Email: your-email@gmail.com  
+🔗 GitHub: https://github.com/chaithanya-kumar-natukula-712nck  
+🔗 LinkedIn: https://www.linkedin.com/in/your-linkedin-id/chaithanya-kumar-natukula-712nck
 
 ---
 
