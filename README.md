@@ -125,3 +125,39 @@ The ensemble approach showed more balanced and reliable results compared to indi
 ---
 
 ## 📁 Project Structure
+├── data/
+│ └── GlobalWeatherRepository.csv
+├── notebooks/
+│ └── Weather_Trend_Forecasting.ipynb
+├── images/
+│ └── plots and visualizations
+├── README.md
+
+
+---
+
+## 🚀 Future Improvements
+- Include additional weather parameters (humidity, rainfall, wind speed)
+- Apply deep learning models such as LSTM or GRU
+- Automate hyperparameter tuning
+- Extend forecasting to multiple countries
+- Deploy the model using a web application or API
+
+---
+
+## 🧾 Conclusion
+This project demonstrates the effectiveness of time series analysis in understanding and predicting weather patterns.  
+By leveraging SARIMA, Prophet, and an ensemble approach, the study successfully forecasts temperature trends with reliable accuracy.  
+The project highlights the importance of preprocessing, model selection, and evaluation in real-world forecasting problems.
+
+---
+
+## 👤 Author
+**Chaithanya**  
+B.Tech – Computer Science Engineering  
+Aspiring Data Scientist & ML Engineer  
+
+---
+
+## 📜 License
+This project is open-source and available under the **MIT License**.
