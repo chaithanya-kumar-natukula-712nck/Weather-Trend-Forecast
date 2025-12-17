@@ -126,13 +126,13 @@ The ensemble approach showed more balanced and reliable results compared to indi
 
 ## 📁 Project Structure
 ```
-├── data/
-│ └── GlobalWeatherRepository.csv
-├── notebooks/
-│ └── Weather_Trend_Forecasting.ipynb
-├── images/
-│ └── plots and visualizations
-├── README.md
+Weather-Trend-Forecast/
+│
+├── README.md # Project documentation
+├── LICENSE # License information
+├── weather_trend_forecast.ipynb # Jupyter Notebook containing data analysis,
+│ # time series modeling, forecasting, and evaluation
+├── Weather Trend Forecast.pptx # Presentation summarizing methodology and results
 ```
 
 ---
