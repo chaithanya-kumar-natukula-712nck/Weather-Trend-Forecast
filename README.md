@@ -125,6 +125,7 @@ The ensemble approach showed more balanced and reliable results compared to indi
 ---
 
 ## 📁 Project Structure
+```
 ├── data/
 │ └── GlobalWeatherRepository.csv
 ├── notebooks/
@@ -132,7 +133,7 @@ The ensemble approach showed more balanced and reliable results compared to indi
 ├── images/
 │ └── plots and visualizations
 ├── README.md
-
+```
 
 ---
 
@@ -171,7 +172,6 @@ After installing the dependencies, launch Jupyter Notebook:
 
 ```bash
 jupyter notebook
-Weather_Trend_Forecasting.ipynb
 ```
 
 ---
